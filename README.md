@@ -1,4 +1,7 @@
 ### Hi there 👋
+### ✍🏿Full-Stack Developer
+### 😄 Pronouns: she/her
+### 📫 How to reach me: cristiine94@outlook.com
 
 <!--
 **GabrieleeCris/GabrieleeCris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
